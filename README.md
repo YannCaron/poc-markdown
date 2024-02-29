@@ -9,8 +9,8 @@
 # math
 > $$
 \begin{align}
-A \rightarrow A\alpha | \beta &\implies
-A \rightarrow \beta A' \\
-A' \rightarrow \alpha A' | \epsilon
+A \rightarrow A\alpha | \beta \implies
+&A \rightarrow \beta A' \\
+&A' \rightarrow \alpha A' | \epsilon
 \end{align}
 $$
