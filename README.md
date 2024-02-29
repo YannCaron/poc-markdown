@@ -8,8 +8,8 @@
 
 # math
 > $$
-A \rightarrow A\alpha | \beta \implies
 \begin{align}
+A \rightarrow A\alpha | \beta &\implies
 A \rightarrow \beta A' \\
 A' \rightarrow \alpha A' | \epsilon
 \end{align}
