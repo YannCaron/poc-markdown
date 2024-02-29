@@ -7,7 +7,7 @@
 <a href="http://example.com" target="_blank">https://www.eddymens.com/blog/how-to-make-a-markdown-link-open-in-another-tab</a>
 
 # math
-$$
+> $$
 A \rightarrow A\alpha | \beta \implies
 \begin{align}
 A \rightarrow \beta A' \\
