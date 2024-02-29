@@ -8,7 +8,7 @@
 
 # math
 $$
-\begin{align}
+\begin{align}[l]
 A \rightarrow A\alpha | \beta \implies
 A \rightarrow \beta A' \\
 A' \rightarrow \alpha A' | \epsilon
